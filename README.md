@@ -7,7 +7,9 @@ Download Chromedriver from this official website.
 **
 https://chromedriver.chromium.org/downloads
 **
+
 If not available install necessary package according to Python env using 
+
 pip install selenium
 
 For Conda environment please install any one.
