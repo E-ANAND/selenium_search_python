@@ -1,4 +1,4 @@
-# python-selenium-search
+# python selenium search using google
 Search anything in google using Python and Selenium
 
 put the chrome driver and python file in same folder
